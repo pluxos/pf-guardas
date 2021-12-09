@@ -1,6 +1,9 @@
 ![Points badge](../../blob/badges/.github/badges/points.svg)
 
 
+# Conteúdo
+Equações simples com uso de guardas.
+
 # Exercícios simples
 
 Abra o arquivo `src/Exercise.hs` e verá diversas funções definidas de forma incompleta ali.
