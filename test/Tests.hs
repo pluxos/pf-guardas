@@ -35,4 +35,4 @@ specs = do
             it "Negativo" $ do
               diasMes (-1) `shouldThrow` anyErrorCall
             it ">12" $ do
-              diasMes (-1) `shouldThrow` anyErrorCall
+              diasMes 13 `shouldThrow` anyErrorCall
